@@ -1,2 +1,2 @@
 # demo-repo
-Demo repository for learning Github tutorial.
+Demo repository for learning GitHub tutorial.
